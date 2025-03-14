@@ -13,6 +13,9 @@
 🚀 Atualmente participo da **comunidade Futuros Devs**, onde troco experiências e aprendo com outros desenvolvedores.  
 📚 Também faço parte do **curso de JavaScript da Oxetech**, aprimorando minhas habilidades e expandindo meus conhecimentos.  
 
+### 📊 Status do GitHub:
+![GitHub commits](https://img.shields.io/github/commit-activity/m/DenissonCesar/seu-repositorio?style=for-the-badge&label=Commits)
+
 💬 Me chame para trocar uma ideia e construir algo incrível juntos! 🚀
 
 ### 🌍 Conecte-se comigo:
