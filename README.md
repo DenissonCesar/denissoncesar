@@ -11,7 +11,8 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 🚀 Atualmente participo da **comunidade Futuros Devs**, onde troco experiências e aprendo com outros desenvolvedores.  
-📚 Também faço parte do **curso de JavaScript da Oxetech**, aprimorando minhas habilidades e expandindo meus conhecimentos.  
+
+ [![card](https://github-readme-stats.vercel.app/api?username=denissoncesar&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 💬 Me chame para trocar uma ideia e construir algo incrível juntos! 🚀
 
